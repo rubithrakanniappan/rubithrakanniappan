@@ -11,15 +11,14 @@ I'm Rubithra and Associate at Cognizant working as .NET developer. I do develop 
 * 📊 SQL Reporting Server
 * 💻 HTML, CSS and Bootstrap 
 
-- 🔭 I’m currently working on .NET Developer 
-- 🌱 I’m currently learning Artificial Intelligence 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/rubithrakanniappan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rubithra-kanniappan-168404179//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Rubithra.Aravindhan)  
 
 <!--
 **rubithrakanniappan/rubithrakanniappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubithrakanniappan)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on .NET Developer 
+- 🌱 I’m currently learning Artificial Intelligence 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
