@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rubithra and Associate at Cognizant working as .NET developer. I do develop the code as per the user story and deploy several web applications and services and optimizing SQL performance by tunning the stored procedure. I also assist the team members whenever support is required. I really enjoying to skills up myself in AI with help of Hope Artificial Intelligence team. 
+I'm Rubithra and Associate at Cognizant working as .NET developer. I do develop the code as per the user story and deploy several web applications and services and optimizing SQL performance by tunning the stored procedure. I also assist the team members whenever support is required. I really enjoying to skills up myself in AI with help of Hope Artificial Intelligence team.  
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubithrakanniappan)](https://github.com/anuraghazra/github-readme-stats)
