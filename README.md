@@ -1,5 +1,5 @@
 ### Hi there 👋
-![I am GitHub Readme Generator's creator](https://github.com/rubithrakanniappan/rubithrakanniappan/blob/main/API_Img.jpg)
+![I am GitHub Readme Generator's creator](https://github.com/rubithrakanniappan/rubithrakanniappan/blob/main/API_Img.JPG)
 
 (https://github.com/rubithrakanniappan/rubithrakanniappan/blob/main/API.gif)
 
